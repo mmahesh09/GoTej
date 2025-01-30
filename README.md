@@ -53,10 +53,7 @@ Here’s how **GoTej** works in simple steps:
 
 ### **5. Sending the Response**  
 - The processed traffic update is sent back to the user via **WhatsApp or SMS**, using the **Twilio API**.  
-  - Example Response:  
-    > 🚦 **Traffic Update for Bengaluru**  
-    > ✅ Heavy Traffic (30 min delay)  
-    > ⏳ Estimated clearance: 45 minutes
+  
 ![image](https://github.com/mmahesh09/GoTej/blob/a56b1635e526883daa99bd7c99097862ddbece38/Project%20assets/5.png)
 
 ### **6. Optional Features**  
