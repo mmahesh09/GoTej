@@ -57,7 +57,7 @@ Here’s how **GoTej** works in simple steps:
     > 🚦 **Traffic Update for Bengaluru**  
     > ✅ Heavy Traffic (30 min delay)  
     > ⏳ Estimated clearance: 45 minutes  
-
+![image](https://github.com/mmahesh09/GoTej/blob/a56b1635e526883daa99bd7c99097862ddbece38/Project%20assets/5.png)
 
 ### **6. Optional Features**  
 - **Machine Learning (Future Enhancement)**: AI-based prediction of traffic clearance time.  
