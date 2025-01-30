@@ -49,6 +49,7 @@ Here’s how **GoTej** works in simple steps:
 - If the user has selected a preferred language, the response is translated using the **Google Cloud Translation API**.  
   - Example: If the user prefers **Hindi**, the message is translated before being sent back.  
 
+![image](https://github.com/mmahesh09/GoTej/blob/d831479fee617af7811c43b3cd78d9f1a1dad876/Project%20assets/4.png)
 
 ### **5. Sending the Response**  
 - The processed traffic update is sent back to the user via **WhatsApp or SMS**, using the **Twilio API**.  
