@@ -56,10 +56,11 @@ Here’s how **GoTej** works in simple steps:
   - Example Response:  
     > 🚦 **Traffic Update for Bengaluru**  
     > ✅ Heavy Traffic (30 min delay)  
-    > ⏳ Estimated clearance: 45 minutes  
+    > ⏳ Estimated clearance: 45 minutes
 ![image](https://github.com/mmahesh09/GoTej/blob/a56b1635e526883daa99bd7c99097862ddbece38/Project%20assets/5.png)
 
 ### **6. Optional Features**  
 - **Machine Learning (Future Enhancement)**: AI-based prediction of traffic clearance time.  
 - **Web Dashboard (Optional)**: A **React.js** dashboard where users can check traffic visually.  
 
+![image](https://github.com/mmahesh09/GoTej/blob/f4e19b7a904dcfbfa9e2777a9ce8e66f92efd32b/Project%20assets/Process%20Flow%20of%20GoTej%20-%20visual%20selection%20(1).png)
