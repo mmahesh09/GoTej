@@ -26,6 +26,8 @@ Urban traffic congestion causes significant delays, economic losses, and fuel wa
 
 Here’s how **GoTej** works in simple steps:  
 
+![image](https://github.com/mmahesh09/GoTej/blob/9b6a915a020e09cdeb28994457fe9ad452a90581/Project%20assets/1.png)
+
 ### **1. User Request (Input)**  
 - A user sends a message (via **WhatsApp** or **SMS**) with a location name.  
   - Example: **"Traffic Bengaluru"**  
