@@ -37,6 +37,7 @@ Here’s how **GoTej** works in simple steps:
 - The **Node.js backend receives the request**.  
 - The backend extracts the **location name** from the message.  
 
+![image](https://github.com/mmahesh09/GoTej/blob/62e6e9deaf3198ea76ba3089f66e12b71ae342a3/Project%20assets/2.png)
 
 ### **3. Fetching Traffic Data**  
 - The backend calls the **Google Maps API** to fetch live traffic data for that location.  
