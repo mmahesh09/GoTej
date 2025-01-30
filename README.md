@@ -43,6 +43,7 @@ Here’s how **GoTej** works in simple steps:
 - The backend calls the **Google Maps API** to fetch live traffic data for that location.  
 - It also estimates **how long it will take for traffic to clear**.  
 
+![image](https://github.com/mmahesh09/GoTej/blob/46fd6967d38d463ffc77d94c784903a3543e0d76/Project%20assets/3.png)
 
 ### **4. Language Translation (If Needed)**  
 - If the user has selected a preferred language, the response is translated using the **Google Cloud Translation API**.  
