@@ -61,3 +61,15 @@ Here’s how **GoTej** works in simple steps:
 - **Web Dashboard (Optional)**: A **React.js** dashboard where users can check traffic visually.  
 
 ![image](https://github.com/mmahesh09/GoTej/blob/f4e19b7a904dcfbfa9e2777a9ce8e66f92efd32b/Project%20assets/Process%20Flow%20of%20GoTej%20-%20visual%20selection%20(1).png)
+
+
+## Skills Used
+| Skill | Purpose |
+|-------|---------|
+| **Node.js** | Backend development for handling API requests |
+| **Express.js** | Framework for building RESTful APIs |
+| **MongoDB** | Database for storing traffic data and user queries |
+| **React.js** (Optional) | Frontend development for a web dashboard |
+| **Google Maps API** | Fetching real-time traffic data |
+| **Twilio API** | Sending and receiving SMS/WhatsApp messages |
+| **Google Cloud Translation API** | Supporting multilingual responses |
