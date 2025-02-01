@@ -73,3 +73,16 @@ Here’s how **GoTej** works in simple steps:
 | **Google Maps API** | Fetching real-time traffic data |
 | **Twilio API** | Sending and receiving SMS/WhatsApp messages |
 | **Google Cloud Translation API** | Supporting multilingual responses |
+
+
+
+## 🌟 Support and Contribute to this Repository  
+
+If you find this project useful, consider showing your support by **starring**, **forking**, or exploring the **contributors**:  
+
+[![Stars](https://img.shields.io/github/stars/mmahesh09/GoTej?style=social&t=12345)](https://github.com/mmahesh09/GoTej/stargazers) &nbsp;&nbsp;&nbsp;
+[![Forks](https://img.shields.io/github/forks/mmahesh09/GoTej?style=social&t=12345)](https://github.com/mmahesh09/GoTej/network/members)  &nbsp;&nbsp;&nbsp;
+[![Contributors](https://img.shields.io/github/contributors/mmahesh09/GoTej?style=flat-square&t=12345)](https://github.com/mmahesh09/GoTej/graphs/contributors)  &nbsp;&nbsp;&nbsp;
+[![Watchers](https://img.shields.io/github/watchers/mmahesh09/GoTej?style=social&t=12345)](https://github.com/mmahesh09/GoTej/watchers)  &nbsp;&nbsp;&nbsp;
+
+🔗 **Check out the repository here:** [GoTej](https://github.com/mmahesh09/GoTej) 🚀
