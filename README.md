@@ -10,6 +10,7 @@
 Urban traffic congestion causes significant delays, economic losses, and fuel wastage, impacting productivity and daily life. Many lack real-time traffic insights, especially non-smartphone users. GoTej addresses this by providing instant, multilingual traffic updates via SMS and WhatsApp, enabling smarter and faster travel decisions.
 
 
+
 ## Existing Methods vs. GoTej
 | Feature | Existing Methods (Google Maps, Waze, etc.) | GoTej |
 |---------|--------------------------------------|------|
