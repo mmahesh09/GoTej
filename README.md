@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logoColor=white&logo=nodedotjs&color=339933" alt="node.js" />
     <img src="https://img.shields.io/badge/-Google_Maps_API-black?style=for-the-badge&logoColor=white&logo=googlemaps&color=4285F4" alt="google maps api" />
     <img src="https://img.shields.io/badge/-Twilio_API-black?style=for-the-badge&logoColor=white&logo=twilio&color=F22F46" alt="twilio api" />
+    <img src="https://img.shields.io/badge/-Google_Cloud_Translation_API-black?style=for-the-badge&logoColor=white&logo=googlecloud&color=4285F4" alt="google cloud translation api" />
 </div>
 
 
