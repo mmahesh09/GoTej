@@ -1,6 +1,15 @@
 # GoTej: Navigate Smarter, Arrive Faster
 
 ![GoTej](https://github.com/mmahesh09/GoTej/blob/6993d32e50233722eeee8d8eb9066f7647a36ef8/Project%20assets/Credit-Card%20fraud%20detection%20(5).png)
+<div>
+    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
+    <img src="https://img.shields.io/badge/-Express_JS-black?style=for-the-badge&logoColor=white&logo=express&color=000000" alt="express.js" />
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logoColor=white&logo=nodedotjs&color=339933" alt="node.js" />
+    <img src="https://img.shields.io/badge/-Google_Maps_API-black?style=for-the-badge&logoColor=white&logo=googlemaps&color=4285F4" alt="google maps api" />
+    <img src="https://img.shields.io/badge/-Twilio_API-black?style=for-the-badge&logoColor=white&logo=twilio&color=F22F46" alt="twilio api" />
+</div>
+
 
 >"In 2023, Bangalore and Pune recorded the longest traffic delays in India during rush hours, with commuters spending an average of 257 hours per year stuck in traffic. Mumbai followed closely behind, with individuals spending 198 hours annually in traffic during peak times. Furthermore, Bangalore had the highest average travel time, taking 28 minutes to cover just 10 kilometers."
 
