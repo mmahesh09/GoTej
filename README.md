@@ -94,6 +94,8 @@ Here’s how **GoTej** works in simple steps:
 
 If you find this project useful, consider showing your support by **starring**, **forking**, or exploring the **contributors**:  
 
+
+
 [![Stars](https://img.shields.io/github/stars/mmahesh09/GoTej?style=social&t=12345)](https://github.com/mmahesh09/GoTej/stargazers) &nbsp;&nbsp;&nbsp;
 [![Forks](https://img.shields.io/github/forks/mmahesh09/GoTej?style=social&t=12345)](https://github.com/mmahesh09/GoTej/network/members)  &nbsp;&nbsp;&nbsp;
 [![Contributors](https://img.shields.io/github/contributors/mmahesh09/GoTej?style=flat-square&t=12345)](https://github.com/mmahesh09/GoTej/graphs/contributors)  &nbsp;&nbsp;&nbsp;
